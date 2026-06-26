@@ -100,56 +100,6 @@ Relationships were created using:
 
 ---
 
-## 📸 Project Screenshots
-
-### Top Manufacturers
-
-![Top Manufacturers](Screenshots/01_top_manufacturers.png)
-
----
-
-### Top Models
-
-![Top Models](Screenshots/02_top_models.png)
-
----
-
-### Manufacturer Ranking
-
-![Manufacturer Ranking](Screenshots/03_manufacturer_ranking.png)
-
----
-
-### Market Leader Classification
-
-![Market Leader](Screenshots/04_market_leader.png)
-
----
-
-### Manufacturers Table
-
-![Manufacturers Table](Screenshots/05_manufacturers_table.png)
-
----
-
-### Vehicle Models Table
-
-![Vehicle Models Table](Screenshots/06_vehicle_models_table.png)
-
----
-
-### INNER JOIN
-
-![INNER JOIN](Screenshots/07_inner_join.png)
-
----
-
-### Three Table JOIN
-
-![Three Table JOIN](Screenshots/08_three_table_join.png)
-
----
-
 ## 📁 Dataset
 
 This project uses the **Electric Vehicle Population Data** dataset.
