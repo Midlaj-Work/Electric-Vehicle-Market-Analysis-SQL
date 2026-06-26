@@ -102,15 +102,20 @@ Relationships were created using:
 
 ## 📁 Dataset
 
-This project uses the **Electric Vehicle Population Data** dataset.
+This project uses the **Electric Vehicle Population Data** dataset sourced from Kaggle.
 
-> **Note:** The dataset is **not included** in this repository because it exceeds GitHub's recommended upload size.
+**Dataset Source:**
+https://www.kaggle.com/
 
-Before running the SQL script:
+> **Note:** The dataset is not included in this repository because it exceeds GitHub's file size limit.
 
-1. Create the `ev_analysis` database.
-2. Import the Electric Vehicle dataset into a table named `electric_vehicle_population_data`.
-3. Execute the SQL script.
+To run this project:
+
+1. Download the dataset from Kaggle.
+2. Create the `ev_analysis` database.
+3. Import the CSV file into a table named `electric_vehicle_population_data`.
+4. Execute `EV_Market_Analysis_SQL.sql`.
+
 
 ---
 
